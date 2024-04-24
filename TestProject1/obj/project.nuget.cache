@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "iZeeLxIjgmEXKfmf7cwJ5+gcPsnDz9x0f820Vh7fyddhE/tdw9XNWV4eTWthKScgTwmFswx8fUN4ydonP6JWqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HANCER MERCEDE\\source\\repos\\kata_1\\TestProject1\\TestProject1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HANCER MERCEDE\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\HANCER MERCEDE\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
+    "C:\\Users\\HANCER MERCEDE\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
+    "C:\\Users\\HANCER MERCEDE\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",
+    "C:\\Users\\HANCER MERCEDE\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0\\microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
+    "C:\\Users\\HANCER MERCEDE\\.nuget\\packages\\microsoft.testplatform.testhost\\17.5.0\\microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
+    "C:\\Users\\HANCER MERCEDE\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\HANCER MERCEDE\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\HANCER MERCEDE\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\HANCER MERCEDE\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\HANCER MERCEDE\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\HANCER MERCEDE\\.nuget\\packages\\xunit\\2.7.1\\xunit.2.7.1.nupkg.sha512",
+    "C:\\Users\\HANCER MERCEDE\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\HANCER MERCEDE\\.nuget\\packages\\xunit.analyzers\\1.12.0\\xunit.analyzers.1.12.0.nupkg.sha512",
+    "C:\\Users\\HANCER MERCEDE\\.nuget\\packages\\xunit.assert\\2.7.1\\xunit.assert.2.7.1.nupkg.sha512",
+    "C:\\Users\\HANCER MERCEDE\\.nuget\\packages\\xunit.core\\2.7.1\\xunit.core.2.7.1.nupkg.sha512",
+    "C:\\Users\\HANCER MERCEDE\\.nuget\\packages\\xunit.extensibility.core\\2.7.1\\xunit.extensibility.core.2.7.1.nupkg.sha512",
+    "C:\\Users\\HANCER MERCEDE\\.nuget\\packages\\xunit.extensibility.execution\\2.7.1\\xunit.extensibility.execution.2.7.1.nupkg.sha512",
+    "C:\\Users\\HANCER MERCEDE\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.5\\xunit.runner.visualstudio.2.4.5.nupkg.sha512"
+  ],
+  "logs": []
+}
